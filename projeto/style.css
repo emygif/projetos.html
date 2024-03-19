@@ -1,0 +1,26 @@
+body{
+    background-color: #f0f0d8;
+}
+h1{
+    color: #607848;
+}
+table{
+    margin: 0%;
+}
+h2{
+    color: #607848;
+}
+h3{
+    color: #607848;
+}
+ul{
+    list-style: none;
+}
+.video-container {
+width: 90%;
+padding: 20px;
+margin-left: 100px;
+display: flex;
+flex-direction: row;
+justify-content: left;
+}
